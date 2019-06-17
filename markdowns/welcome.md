@@ -8,6 +8,8 @@ The source code for this template is on [GitHub](https://github.com/TechDotIO/an
 
 @[Sample Angular App Boilerplate]({"stubs": ["src/app/app.module.ts", "src/app/app.component.ts", "src/app/app.component.html"], "command": "./run.sh"})
 
+@[Sample Angular App Boilerplate]({"stubs": ["src/app/app.module.ts", "src/app/app.component.ts", "src/app/app.component.html"], "command": "./run.sh"})
+
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/angular-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
 # Template Resources
